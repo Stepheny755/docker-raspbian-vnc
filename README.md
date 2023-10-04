@@ -1,2 +1,2 @@
 # docker-raspbian-vnc
-a Docker to run raspbian over NoVNC
+a Docker to run Raspbian over NoVNC
